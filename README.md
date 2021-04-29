@@ -91,10 +91,10 @@ $(document).ready(function () {
 
 <b>粗</b>  
 <i>斜</i>  
-<kbd>lalala</kbd>   
-<em>what</em>  
-<sup>eee</sup>  
-<sub>aaa</sub>  
-<br>sss</br>  
-<del>delete</del>  
-<hr/>hhhhh
+<kbd>JFID</kbd>   
+<em>DHFG</em>  
+<sup>DOPOP</sup>  
+<sub>OOKO</sub>  
+<br>IJI</br>  
+<del>IOIO</del>  
+<hr/>NFKNVJF
