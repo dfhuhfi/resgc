@@ -1,20 +1,20 @@
 # homework
- Hello World! 
-# Hello World! 
-## Hello World! 
-### Hello World! 
+ Hello! 
+# Hello! 
+## Hello! 
+### Hello! 
 --------------------
-这是一个通向[zxy.md](https://github.com/dfhuhfi/resgc/blob/main/zxy.md)的链接
+通向[zxy.md](https://github.com/dfhuhfi/resgc/blob/main/zxy.md)的链接
 
-*斜体文本*
-_斜体文本_
-**粗体文本**
-__粗体文本__
-***粗斜体文本***
-___hhmkk___
+*斜体*
+_斜体_
+**粗体**
+__粗体__
+***粗斜体***
+___粗斜体___
 
-~~BAIDU.COM~~
-<u>带下划线de文本</u>
+~~qwerqr~~
+<u>下划线</u>
 
 hvhgchgchg [^RUNOOB]。
 
@@ -24,14 +24,14 @@ hvhgchgchg [^RUNOOB]。
 * 2
 * 3
 
-+ 4
-+ 5
-+ 6
++ 1
++ 2
++ 3
 
 
-- 7
-- 8
-- 9
+- 1
+- 2
+- 3
 
 1. 第一项
 2. 第二项
