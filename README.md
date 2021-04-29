@@ -4,7 +4,7 @@
 ## Hello World! 
 ### Hello World! 
 --------------------
-这是一个通向[test.md](https://github.com/Keanu-teh/homework/edit/main/test.md)的链接
+这是一个通向[test.md](https://github.com/dfhuhfi/resgc/blob/main/zxy.md)的链接
 
 *斜体文本*
 _斜体文本_
