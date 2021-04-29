@@ -4,7 +4,7 @@
 ## Hello World! 
 ### Hello World! 
 --------------------
-这是一个通向[test.md](https://github.com/dfhuhfi/resgc/blob/main/zxy.md)的链接
+这是一个通向[zxy.md](https://github.com/dfhuhfi/resgc/blob/main/zxy.md)的链接
 
 *斜体文本*
 _斜体文本_
@@ -16,9 +16,9 @@ ___hhmkk___
 ~~BAIDU.COM~~
 <u>带下划线de文本</u>
 
-创建脚注格式类似这样 [^RUNOOB]。
+hvhgchgchg [^RUNOOB]。
 
-[^RUNOOB]: 学的不仅是技术，更是梦想！！！
+[^RUNOOB]: jvjvj
 
 * 1
 * 2
