@@ -6,12 +6,6 @@
 --------------------
 通向[zxy.md](https://github.com/dfhuhfi/resgc/blob/main/zxy.md)的链接
 
-*斜体*
-_斜体_
-**粗体**
-__粗体__
-***粗斜体***
-___粗斜体___
 
 ~~qwerqr~~
 <u>下划线</u>
@@ -20,6 +14,26 @@ hvhgchgchg [^RUNOOB]。
 
 [^RUNOOB]: jvjvj
 
+1. NUM.1
+2. NUM.2
+3. NUM.3
+
+1. NUM.1：
+    - num.1
+    - num.2
+2. NUM.2：
+    - num.1
+    - num.2
+    - 
+<b>粗</b>  
+<i>斜</i>  
+<kbd>JFID</kbd>   
+<em>DHFG</em>  
+<sup>DOPOP</sup>  
+<sub>OOKO</sub>  
+<br>IJI</br>  
+<del>IOIO</del>  
+<hr/>NFKNVJF
 * 1
 * 2
 * 3
@@ -32,17 +46,22 @@ hvhgchgchg [^RUNOOB]。
 - 1
 - 2
 - 3
+*斜体*
+_斜体_
+**粗体**
+__粗体__
+***粗斜体***
+___粗斜体___
+|  头   | 头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
 
-1. NUM.1
-2. NUM.2
-3. NUM.3
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
 
-1. NUM.1：
-    - num.1
-    - num.2
-2. NUM.2：
-    - num.1
-    - num.2
 
 > QWE
 > QWEWQER
@@ -77,24 +96,6 @@ $(document).ready(function () {
   [1]: http://www.google.com/
   [runoob]: http://www.runoob.com/
 
-![alt what the hell](https://github.com/dfhuhfi/resgc/blob/main/8514135.jpg)
+![qwefdsfsa](https://github.com/dfhuhfi/resgc/blob/main/8514135.jpg)
 
-|  头   | 头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
 
-| 左对齐 | 右对齐 | 居中对齐 |
-| :-----| ----: | :----: |
-| 单元格 | 单元格 | 单元格 |
-| 单元格 | 单元格 | 单元格 |
-
-<b>粗</b>  
-<i>斜</i>  
-<kbd>JFID</kbd>   
-<em>DHFG</em>  
-<sup>DOPOP</sup>  
-<sub>OOKO</sub>  
-<br>IJI</br>  
-<del>IOIO</del>  
-<hr/>NFKNVJF
